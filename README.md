@@ -32,7 +32,7 @@ weighted avg       0.74      0.70      0.71       122
 Recall is emphasized as the primary performance metric, given the objective of the system: **to identify and flag as many failure-prone configurations as possible**. This emphasis is intended to minimize the number of faulty prints produced, thereby conserving material, time, and operational resources by prioritizing the indetification of configuration that are more likely to result in print failures.
 
 # Next Steps
-- [ ] Explore other supervised learning models
+- [x] Explore other supervised learning models
 - [ ] Search for a supervised dataset wtih accurate data, eliminating the need to create a pseudo-failure label
 
 # References
